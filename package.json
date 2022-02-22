@@ -41,7 +41,7 @@
     "rollup": "^2.47.0",
     "rollup-plugin-copy": "^3.4.0",
     "rollup-plugin-svelte": "^7.1.0",
-    "selenium-webdriver": "^4.0.0-beta.3",
+    "selenium-webdriver": "^4.1.1",
     "svelte": "^3.38.3",
     "tailwindcss": "^2.2.16",
     "web-ext": "^6.1.0",
